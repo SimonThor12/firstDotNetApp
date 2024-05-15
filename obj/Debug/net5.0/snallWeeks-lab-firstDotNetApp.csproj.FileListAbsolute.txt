@@ -1,0 +1,16 @@
+C:\Users\simon\salt\precourse\first-dotnet-app\bin\Debug\net5.0\snallWeeks-lab-firstDotNetApp.exe
+C:\Users\simon\salt\precourse\first-dotnet-app\bin\Debug\net5.0\snallWeeks-lab-firstDotNetApp.deps.json
+C:\Users\simon\salt\precourse\first-dotnet-app\bin\Debug\net5.0\snallWeeks-lab-firstDotNetApp.runtimeconfig.json
+C:\Users\simon\salt\precourse\first-dotnet-app\bin\Debug\net5.0\snallWeeks-lab-firstDotNetApp.runtimeconfig.dev.json
+C:\Users\simon\salt\precourse\first-dotnet-app\bin\Debug\net5.0\snallWeeks-lab-firstDotNetApp.dll
+C:\Users\simon\salt\precourse\first-dotnet-app\bin\Debug\net5.0\snallWeeks-lab-firstDotNetApp.pdb
+C:\Users\simon\salt\precourse\first-dotnet-app\obj\Debug\net5.0\snallWeeks-lab-firstDotNetApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\salt\precourse\first-dotnet-app\obj\Debug\net5.0\snallWeeks-lab-firstDotNetApp.AssemblyInfoInputs.cache
+C:\Users\simon\salt\precourse\first-dotnet-app\obj\Debug\net5.0\snallWeeks-lab-firstDotNetApp.AssemblyInfo.cs
+C:\Users\simon\salt\precourse\first-dotnet-app\obj\Debug\net5.0\snallWeeks-lab-firstDotNetApp.csproj.CoreCompileInputs.cache
+C:\Users\simon\salt\precourse\first-dotnet-app\obj\Debug\net5.0\snallWeeks-lab-firstDotNetApp.sourcelink.json
+C:\Users\simon\salt\precourse\first-dotnet-app\obj\Debug\net5.0\snallWeeks-lab-firstDotNetApp.dll
+C:\Users\simon\salt\precourse\first-dotnet-app\obj\Debug\net5.0\refint\snallWeeks-lab-firstDotNetApp.dll
+C:\Users\simon\salt\precourse\first-dotnet-app\obj\Debug\net5.0\snallWeeks-lab-firstDotNetApp.pdb
+C:\Users\simon\salt\precourse\first-dotnet-app\obj\Debug\net5.0\snallWeeks-lab-firstDotNetApp.genruntimeconfig.cache
+C:\Users\simon\salt\precourse\first-dotnet-app\obj\Debug\net5.0\ref\snallWeeks-lab-firstDotNetApp.dll
